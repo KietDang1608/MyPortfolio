@@ -1,0 +1,39 @@
+#detail-head-2{
+    background-color: #B67352;
+    color: #FEFBF6;
+    font-weight: bold;
+    font-size: 40px;
+}
+.more-detail{
+    text-align: left;
+}
+.more-detail p{
+    background-color: #ECB159;
+    color: #FEFBF6;
+    padding: 1%;
+    font-weight: bold;
+}
+#myproject{
+    margin-top: 5%;
+    width: 70%;
+    height: 1000px;
+    background-color: white;
+    text-align: center;
+}
+#myproject-head {
+    background-color: #8CB9BD;
+    font-size: 40px;
+    color: #FEFBF6;
+    font-weight: bolder;
+    margin-top: 0%;
+    padding: 1%;
+}
+.myproject-detail {
+    text-align: left;
+    margin: 5%;
+}
+.myproject-detail-head{
+    font-weight: bolder;
+    background-color: #ECB159;
+    font-size: 30px;
+}
